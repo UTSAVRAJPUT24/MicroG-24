@@ -29,18 +29,18 @@
 Mari kita sambungkan ke akun Google, gunakan tombol <b>Masuk</b> atau tombol <b>Huawei</b> jika Anda memiliki perangkat dengan merek ini. Dengan menekan salah satu tombol, Anda akan dialihkan ke halaman untuk masuk ke akun Anda."</string>
     <string name="auth_connecting">"Perangkat Anda sedang terhubung ke server Google untuk masuk.
 
-Hal ini dapat memerlukan waktu beberapa saat"</string>
-    <string name="auth_no_network_error_desc">"Anda tidak memiliki sambungan jaringan.
+Ini memerlukan waktu beberapa saat"</string>
+    <string name="auth_no_network_error_desc">"Anda tidak memiliki sambungan internet.
 
 Ini mungkin masalah sementara atau perangkat Android Anda mungkin belum diaktifkan untuk layanan data. Coba lagi ketika terhubung ke jaringan seluler, atau hubungkan ke jaringan Wi-Fi"</string>
-    <string name="auth_general_error_desc">"Ada masalah dalam berkomunikasi dengan server Google.
+    <string name="auth_general_error_desc">"Ada masalah dalam komunikasi dengan server Google.
 
 Coba lagi nanti"</string>
     <string name="auth_finalize">"Perangkat Anda sedang terhubung ke Google untuk menyimpan informasi ke akun Anda.
 
-Proses ini dapat memakan waktu beberapa menit"</string>
+Proses ini dapat memakan waktu beberapa saat"</string>
     <!--auth: notifications-->
-    <string name="auth_notification_title">Diperlukan autentikasi</string>
+    <string name="auth_notification_title">Autentikasi diperlukan</string>
     <!-- %1$s is an app name, such as "YouTube" -->
     <string name="auth_notification_content">%1$s memerlukan izin Anda untuk mengakses akun Google Anda</string>
     <!--Account Manager-->
@@ -56,21 +56,21 @@ Data Anda tidak akan hilang"</string>
     <string name="snackbar_undo_button">Urungkan</string>
     <!--Google Cloud Messaging-->
     <string name="service_name_mcs">Pesan cloud</string>
-    <string name="gcm_enable_switch">Pemberitahuan dorong</string>
+    <string name="gcm_enable_switch">Pemberitahuan paksa</string>
     <!--gcm: register dialogs-->
     <string name="gcm_registered">Terdaftar</string>
     <string name="gcm_unregister_app">Batalkan pendaftaran</string>
     <string name="gcm_remove_registers_dialog_title">Hapus semua pendaftaran?</string>
     <!-- %1$s is an app name, such as "YouTube"? -->
     <string name="gcm_unregister_confirm_title">Batalkan pendaftaran %1$s?</string>
-    <string name="gcm_remove_registers_dialog_message">"Ini akan menghapus semua aplikasi terdaftar untuk menerima pemberitahuan dorong sekaligus
+    <string name="gcm_remove_registers_dialog_message">"Ini akan menghapus semua aplikasi terdaftar untuk menerima pemberitahuan paksa sekaligus
 
 Anda akan membutuhkan Token keamanan dan AndroidID baru untuk mendaftarkan aplikasi. Periksa status pendaftaran perangkat
 
 Beberapa aplikasi mungkin tidak dapat mendaftar lagi setelah melakukan ini. Anda mungkin perlu menghapus data aplikasi-aplikasi tersebut sebelum mereka dapat meminta pendaftaran lagi"</string>
     <string name="gcm_unregister_confirm_message">"Beberapa aplikasi tidak secara otomatis mendaftar ulang dan/atau tidak menyediakan pilihan untuk melakukannya secara manual. Aplikasi-aplikasi ini mungkin tidak berfungsi dengan benar setelah proses pembatalan pendaftaran.
 Lanjutkan?"</string>
-    <string name="gcm_remove_registers_toast_message">Semua aplikasi dihapus dari pemberitahuan dorong</string>
+    <string name="gcm_remove_registers_toast_message">Semua aplikasi dihapus dari pemberitahuan paksa</string>
     <string name="gcm_unregister_after_deny_message">"Anda menolak aplikasi untuk mendaftar untuk pemberitahuan dorong yang sudah terdaftar.
 Apakah Anda ingin membatalkan pendaftarannya sekarang sehingga tidak menerima pemberitahuan dorong di masa mendatang?"</string>
     <!--gcm: register messages infos-->
@@ -98,7 +98,7 @@ Apakah Anda ingin membatalkan pendaftarannya sekarang sehingga tidak menerima pe
     <string name="push_notifications_summary_values_minutes">%s menit</string>
     <!--gcm: ask push permission dialog-->
     <!-- %1$s is an app name, such as "YouTube" -->
-    <string name="gcm_allow_app_popup">Izinkan %1$s untuk mendaftar untuk pemberitahuan dorong?</string>
+    <string name="gcm_allow_app_popup">Izinkan %1$s untuk mendaftar untuk pemberitahuan paksa?</string>
     <string name="allow">Izinkan</string>
     <string name="deny">Tolak</string>
     <!--gcm: ask permission tos-->

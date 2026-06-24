@@ -21,13 +21,13 @@
     <!-- %1$s is an app name, such as "YouTube" -->
     <string name="signin_confirm_title">Autoriser la connexion à %1$s</string>
     <!-- %1$s is an app name, such as "YouTube" -->
-    <string name="signin_subtext_sharing">Pour continuer, microG partagera le nom, l’adresse e-mail et la photo de profil de votre compte Google avec %1$s</string>
+    <string name="signin_subtext_sharing">Pour continuer, microG partagera le nom, l\'adresse e-mail et la photo de profil de votre compte Google avec %1$s</string>
     <!--auth: buttons-->
     <!--auth: messages-->
     <string name="auth_before_connect">"Connecter un compte Google avec microG.
 
 Connectons-nous à un compte Google, utilisez le bouton <b>Se connecter</b> ou, si vous avez un appareil Huawei, utilisez le bouton <b>Huawei</b>
-En appuyant sur l’un de ces boutons, vous serez redirigé vers la page de connexion à votre compte."</string>
+En appuyant sur l'un de ces boutons, vous serez redirigé vers la page de connexion à votre compte."</string>
     <string name="auth_connecting">"Votre appareil établit une connexion avec les serveurs de Google pour vous connecter.
 
 Cela peut prendre quelques secondes"</string>
@@ -64,16 +64,16 @@ Vos données ne seront pas perdues"</string>
     <string name="gcm_remove_registers_dialog_title">Supprimer tous les enregistrements ?</string>
     <!-- %1$s is an app name, such as "YouTube"? -->
     <string name="gcm_unregister_confirm_title">Désenregistrer %1$s ?</string>
-    <string name="gcm_remove_registers_dialog_message">"Cela supprimera l’enregistrement de toutes les applications pour les notifications push en une seule fois.
+    <string name="gcm_remove_registers_dialog_message">"Cela supprimera l'enregistrement de toutes les applications pour les notifications push en une seule fois.
 
-Vous aurez besoin d’un nouveau securityToken et Id Android pour enregistrer les applications. 
+Vous aurez besoin d’un nouveau securityToken et AndroidID pour enregistrer les applications. 
 
-Vérifiez le statut d’enregistrement de l’appareil. Certaines applications pourraient ne pas pouvoir s’enregistrer à nouveau après cette action. Vous devrez peut-être effacer leurs données avant qu’elles puissent demander un nouvel enregistrement"</string>
-    <string name="gcm_unregister_confirm_message">"Certaines applications ne se réenregistrent pas automatiquement et/ou ne proposent pas d’option pour le faire manuellement. Ces applications pourraient ne pas fonctionner correctement après le désenregistrement.
+Vérifiez le statut d’enregistrement de l'appareil. Certaines applications pourraient ne pas pouvoir s’enregistrer à nouveau après cette action. Vous devrez peut-être effacer leurs données avant qu’elles puissent demander un nouvel enregistrement"</string>
+    <string name="gcm_unregister_confirm_message">"Certaines applications ne se réenregistrent pas automatiquement et/ou ne proposent pas d'option pour le faire manuellement. Ces applications pourraient ne pas fonctionner correctement après le désenregistrement.
 Continuer ?"</string>
     <string name="gcm_remove_registers_toast_message">Toutes les applications ont été supprimées des notifications push</string>
-    <string name="gcm_unregister_after_deny_message">"Vous avez refusé à une application de s’enregistrer pour les notifications push, mais elle est déjà enregistrée.
-Voulez-vous la désenregistrer maintenant afin qu’elle ne reçoive plus de messages push à l’avenir ?"</string>
+    <string name="gcm_unregister_after_deny_message">"Vous avez refusé à une application de s'enregistrer pour les notifications push, mais elle est déjà enregistrée.
+Voulez-vous la désenregistrer maintenant afin qu'elle ne reçoive plus de messages push à l’avenir ?"</string>
     <!--gcm: register messages infos-->
     <string name="gcm_no_message_yet">Aucun message reçu pour le moment</string>
     <!-- %1$s is a date time, such as  app name, such as "Yesterday, 02:20 PM" -->
@@ -108,7 +108,7 @@ Voulez-vous la désenregistrer maintenant afin qu’elle ne reçoive plus de mes
     <string name="ask_scope_permission_title">%1$s souhaiterait :</string>
     <string name="ask_service_permission_title">%1$s souhaiterait utiliser :</string>
     <!--Device Registration-->
-    <string name="service_name_checkin">Enregistrement de l’appareil</string>
+    <string name="service_name_checkin">Enregistrement de l\'appareil</string>
     <string name="checkin_enable_switch">Enregistrer l\'appareil</string>
     <!--checkin: registration status-->
     <string name="checkin_not_registered">Non enregistré</string>
@@ -124,7 +124,7 @@ Voulez-vous la désenregistrer maintenant afin qu’elle ne reçoive plus de mes
     <!--self check: categories-->
     <string name="self_check_cat_system">Système</string>
     <string name="self_check_cat_patched_apps">Applications patchées</string>
-    <string name="self_check_cat_gms_packages">Packages installés</string>
+    <string name="self_check_cat_gms_packages">Paquets installés</string>
     <string name="self_check_cat_fake_sig">Prise en charge de la falsification de signature</string>
     <!--self check: patched apps-->
     <string name="self_check_source_morphe">Patchs Morphe</string>
@@ -132,11 +132,11 @@ Voulez-vous la désenregistrer maintenant afin qu’elle ne reçoive plus de mes
     <!-- %1$s is an app name, such as "Morphe" -->
     <string name="self_check_patched_app_installed">Exécuté avec %1$s</string>
     <!-- %1$s is an app name, such as "YouTube" -->
-    <string name="self_check_resolution_patched_app_installed">Applications utilisant %1$s introuvables. Veuillez patcher et installer l’application modifiée</string>
+    <string name="self_check_resolution_patched_app_installed">Applications utilisant %1$s introuvables. Veuillez patcher et installer l\'application modifiée</string>
     <string name="self_check_action_download_morphe">Télécharger Morphe</string>
     <!--self check: permission-->
     <string name="self_check_name_notifications">Notifications autorisées</string>
-    <string name="self_check_resolution_notifications">Appuyez ici pour ouvrir les paramètres de notifications. Les notifications sont utilisées pour maintenir GcmService en exécution en arrière-plan lorsque l’optimisation de la batterie est activée ou dans d’autres conditions</string>
+    <string name="self_check_resolution_notifications">Appuyez ici pour ouvrir les paramètres de notifications. Les notifications sont utilisées pour maintenir GcmService en exécution en arrière-plan lorsque l\'optimisation de la batterie est activée ou dans d\'autres conditions</string>
     <string name="self_check_name_overlay">Affichage par-dessus les autres applications autorisé</string>
     <string name="self_check_resolution_overlay">Appuyez ici pour accorder cette autorisation. Cette autorisation est nécessaire pour afficher des alertes pop-up par-dessus les autres applications</string>
     <!--self check: system-->
@@ -152,7 +152,7 @@ Voulez-vous la désenregistrer maintenant afin qu’elle ne reçoive plus de mes
     <!-- %1$s is an app name, such as "YouTube" -->
     <string name="self_check_name_app_installed">%1$s installé</string>
     <!-- %1$s is an app name, such as "YouTube" -->
-    <string name="self_check_resolution_app_installed">Installez l’application %1$s ou une application compatible. Veuillez consulter la documentation pour savoir quelles applications sont compatibles</string>
+    <string name="self_check_resolution_app_installed">Installez l\'application %1$s ou une application compatible. Veuillez consulter la documentation pour savoir quelles applications sont compatibles</string>
     <!--Settings Preferences-->
     <!--preferences: categories-->
     <string name="prefcat_accounts_login_accounts_title">Connecté</string>
@@ -179,19 +179,19 @@ Voulez-vous la désenregistrer maintenant afin qu’elle ne reçoive plus de mes
     <string name="pref_accounts_login_accounts_summary">Les comptes sont enregistrés et stockés uniquement sur cet appareil. Appuyez sur un compte pour le supprimer définitivement de cet appareil</string>
     <!--preferences: device registration-->
     <string name="pref_device_registration_device_profile_category">Profil de l\'appareil</string>
-    <string name="pref_device_registration_select_profile_title">Sélectionner le profil</string>
+    <string name="pref_device_registration_select_profile_title">Sélectionner un profil</string>
     <string name="pref_device_registration_import_custom_profile_title">Importer un profil personnalisé</string>
     <string name="pref_device_registration_import_custom_profile_summary">Importer le profil de l\'appareil à partir d\'un fichier</string>
     <string name="pref_device_registration_serial_title">Série</string>
-    <string name="pref_device_registration_android_id">ID Android</string>
-    <string name="pref_checkin_enable_summary">Enregistre votre appareil auprès des services Google et crée un identifiant unique pour l’appareil. microG supprime les éléments d’identification autres que le nom de votre compte Google des données d’enregistrement</string>
+    <string name="pref_device_registration_android_id">Android ID</string>
+    <string name="pref_checkin_enable_summary">Enregistre votre appareil auprès des services Google et crée un identifiant unique pour l\'appareil. microG supprime les éléments d\'identification autres que le nom de votre compte Google des données d’enregistrement</string>
     <!--preferences: cloud messaging-->
     <string name="prefcat_push_apps_title">Applications utilisant les notifications push</string>
     <string name="pref_push_app_allow_register_title">Autoriser l\'enregistrement</string>
     <string name="pref_push_app_allow_register_summary">Autoriser l\'application à s\'enregistrer pour les notifications push</string>
     <string name="pref_push_app_wake_for_delivery_title">Démarrer l\'application lors de la réception d\'un message push</string>
-    <string name="pref_push_app_wake_for_delivery_summary">Démarrer l’application en arrière-plan pour recevoir les messages push entrants</string>
-    <string name="pref_gcm_enable_mcs_summary">Cloud Messaging est un fournisseur de notifications push utilisé pour les applications modifiées.  Pour l’utiliser, vous devez activer l’enregistrement de l’appareil</string>
+    <string name="pref_push_app_wake_for_delivery_summary">Démarrer l\'application en arrière-plan pour recevoir les messages push entrants</string>
+    <string name="pref_gcm_enable_mcs_summary">Cloud Messaging est un fournisseur de notifications push utilisé pour les applications modifiées. Pour l\'utiliser, vous devez activer l\'enregistrement de l\'appareil</string>
     <string name="pref_gcm_confirm_new_apps_title">Confirmer les nouvelles applications</string>
     <string name="pref_gcm_confirm_new_apps_summary">Demander avant d’enregistrer une nouvelle application pour recevoir des notifications push</string>
     <string name="pref_gcm_remove_registers">Supprimer toutes les applications enregistrées</string>
@@ -202,16 +202,16 @@ Voulez-vous la désenregistrer maintenant afin qu’elle ne reçoive plus de mes
     <string name="pref_network_google_enabled">Autoriser la connexion aux serveurs Google</string>
     <string name="pref_network_google_enabled_summary">Si désactivé, toutes les connexions aux serveurs Google normalement effectuées par microG seront refusées. Cela surpasse les paramètres spécifiques aux services.</string>
     <string name="pref_network_google_use_tor">Se connecter à Google via le réseau Tor</string>
-    <string name="pref_network_google_use_tor_summary">"Requiert l'installation d'Orbot
+    <string name="pref_network_google_use_tor_summary">"Nécessite l'installation d'Orbot
 Pas encore pris en charge"</string>
     <string name="pref_auth_trust_google_title">Faire confiance à Google pour les permissions d’application</string>
-    <string name="pref_auth_trust_google_summary">Lorsque désactivé, l’utilisateur est invité avant qu’une demande d’autorisation de l’application ne soit envoyée à Google. Certaines applications ne pourront pas utiliser le compte Google si cette option est désactivée</string>
+    <string name="pref_auth_trust_google_summary">Lorsque désactivé, l\'utilisateur est invité avant qu\'une demande d\'autorisation de l\'application ne soit envoyée à Google. Certaines applications ne pourront pas utiliser le compte Google si cette option est désactivée</string>
     <string name="pref_auth_visible_title">Autoriser les applications à trouver les comptes</string>
-    <string name="pref_auth_visible_summary">Lorsque activé, toutes les applications sur cet appareil pourront voir l’adresse e-mail de vos comptes Google sans autorisation préalable</string>
+    <string name="pref_auth_visible_summary">Lorsque activé, toutes les applications sur cet appareil pourront voir l\'adresse e-mail de vos comptes Google sans autorisation préalable</string>
     <string name="pref_auth_include_android_id_title">S\'authentifier avec l\'enregistrement de l\'appareil</string>
-    <string name="pref_auth_include_android_id_summary">Lorsque désactivé, les demandes d’authentification ne seront pas liées à l’enregistrement de l’appareil, ce qui permet à des appareils non autorisés de se connecter, mais peut entraîner des conséquences imprévues</string>
+    <string name="pref_auth_include_android_id_summary">Lorsque désactivé, les demandes d\'authentification ne seront pas liées à l\'enregistrement de l\'appareil, ce qui permet à des appareils non autorisés de se connecter, mais peut entraîner des conséquences imprévues</string>
     <string name="pref_auth_strip_device_name_title">Supprimer le nom de l\'appareil pour l\'authentification</string>
-    <string name="pref_auth_strip_device_name_summary">Lorsque activé, les demandes d’authentification n’incluront pas le nom de l’appareil, ce qui peut permettre à des appareils non autorisés de se connecter, mais peut entraîner des conséquences imprévues</string>
+    <string name="pref_auth_strip_device_name_summary">Lorsque activé, les demandes d\'authentification n\'incluront pas le nom de l\'appareil, ce qui peut permettre à des appareils non autorisés de se connecter, mais peut entraîner des conséquences imprévues</string>
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Masquer l\'icône dans le lanceur</string>
     <!--preferences: about-->

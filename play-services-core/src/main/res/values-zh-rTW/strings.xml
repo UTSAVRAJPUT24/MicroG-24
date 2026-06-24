@@ -218,7 +218,7 @@
     <string name="pref_github_summary">原始碼儲存庫</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">接收內部狀態廣播</string>
-    <string name="perm_gsf_read_gservices_label">閱讀 Google 服務設置</string>
+    <string name="perm_gsf_read_gservices_label">閱讀 Google 服務設定</string>
     <string name="perm_c2dm_receive_label">接收 C2DM 資訊</string>
     <string name="perm_c2dm_send_label">將 C2DM 資訊傳送到其他應用程式</string>
     <string name="perm_gtalk_svc_label">與 Google 伺服器交換並接收同步訊息</string>

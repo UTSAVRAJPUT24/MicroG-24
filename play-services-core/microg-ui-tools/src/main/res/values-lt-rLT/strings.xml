@@ -17,6 +17,7 @@
 <resources>
     <!--Updater-->
     <!--updater: messages-->
+    <string name="update_checker_no_update">Atnaujinimo nėra</string>
     <!--Settings About-->
     <!--Self Check-->
     <!--self-check: permission-->

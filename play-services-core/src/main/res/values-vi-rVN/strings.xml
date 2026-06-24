@@ -167,7 +167,7 @@ Một số ứng dụng có thể không đăng ký lại được và sẽ cầ
     <string name="pref_device_registration_import_custom_profile_summary">Nhập cấu hình thiết bị từ tệp</string>
     <string name="pref_device_registration_serial_title">Số sê-ri</string>
     <string name="pref_device_registration_android_id">Android ID</string>
-    <string name="pref_checkin_enable_summary">Đăng ký thiết bị của bạn với Google và tạo mã định danh riêng. microG loại bỏ các thông tin nhận dạng khác ngoài tên tài khoản Google của bạn khỏi dữ liệu đăng ký</string>
+    <string name="pref_checkin_enable_summary">Đăng ký thiết bị của bạn với dịch vụ Google và tạo mã định danh riêng. microG sẽ loại bỏ các thông tin nhận dạng khác ngoài tên tài khoản Google của bạn khỏi dữ liệu đăng ký</string>
     <!--preferences: cloud messaging-->
     <string name="prefcat_push_apps_title">Ứng dụng dùng dịch vụ thông báo đẩy</string>
     <string name="pref_push_app_allow_register_title">Cho phép đăng ký</string>

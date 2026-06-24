@@ -7,6 +7,9 @@
     <!--App Names-->
     <!--Authentication-->
     <!--auth: headers-->
+    <string name="auth_add_account">Аккаунтту кошуу</string>
+    <string name="auth_just_a_sec">Бир аз күтө туруңуз...</string>
+    <string name="auth_sorry">Кечириңиз...</string>
     <!--auth: sign-->
     <!-- %1$s is an app name, such as "YouTube" -->
     <!-- %1$s is an app name, such as "YouTube" -->
@@ -48,6 +51,7 @@
     <!-- %1$s is an app name, such as "YouTube" -->
     <!--Settings Preferences-->
     <!--preferences: categories-->
+    <string name="prefcat_about">Маалымат</string>
     <!--preferences: account manager-->
     <!--preferences: device registration-->
     <!--preferences: cloud messaging-->

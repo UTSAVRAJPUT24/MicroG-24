@@ -26,6 +26,7 @@
     <!--auth: notifications-->
     <!-- %1$s is an app name, such as "YouTube" -->
     <!--Account Manager-->
+    <string name="dialog_confirm_button">Keluarkan</string>
     <!--Google Cloud Messaging-->
     <!--gcm: register dialogs-->
     <!-- %1$s is an app name, such as "YouTube"? -->
@@ -45,6 +46,7 @@
     <!--checkin: registration status-->
     <!-- %1$s is a date time, such as  app name, such as "Yesterday, 02:20 PM" -->
     <!--checkin: profile names types entry's-->
+    <string name="profile_name_native">Asli</string>
     <!--Self Check-->
     <!--self check: categories-->
     <string name="self_check_cat_system">Sistem</string>
@@ -59,6 +61,8 @@
     <!-- %1$s is an app name, such as "YouTube" -->
     <!--Settings Preferences-->
     <!--preferences: categories-->
+    <string name="prefcat_about">Mengenai</string>
+    <string name="prefcat_advanced">Lebih mahir</string>
     <!--preferences: account manager-->
     <!--preferences: device registration-->
     <!--preferences: cloud messaging-->

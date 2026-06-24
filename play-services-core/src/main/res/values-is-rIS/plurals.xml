@@ -16,5 +16,17 @@
   -->
 <resources>
     <!--Google Cloud Messaging-->
+    <plurals name="gcm_registered_apps_counter">
+        <item quantity="one">%1$d skráð app</item>
+        <item quantity="other">%1$d skráð forrit</item>
+    </plurals>
     <!--Conditions-->
+    <plurals name="cond_perm_summary">
+        <item quantity="one">Leyfi sem krafist er fyrir rétta virkni microG Services hefur ekki verið veitt.</item>
+        <item quantity="other">Leyfi sem krafist er fyrir rétta virkni microG Services hafa ekki verið veitt.</item>
+    </plurals>
+    <plurals name="cond_perm_action">
+        <item quantity="one">Beið um vantar leyfi</item>
+        <item quantity="other">Beið um vanta leyfi</item>
+    </plurals>
 </resources>

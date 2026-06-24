@@ -13,13 +13,13 @@
     <string name="auth_just_a_sec">Μία στιγμή…</string>
     <string name="auth_sorry">Λυπούμαστε…</string>
     <!--auth: sign-->
-    <string name="signin_picker_title">Επιλέξτε λογαριασμό</string>
+    <string name="signin_picker_title">Επιλέξτε έναν λογαριασμό</string>
     <!-- %1$s is an app name, such as "YouTube" -->
     <string name="signin_picker_subtitle">για να συνεχίσετε στο %1$s</string>
     <string name="signin_confirm_button_text">Επιτρέπεται και κοινοποίηση</string>
     <string name="signin_picker_add_account_label">Προσθήκη άλλου λογαριασμού</string>
     <!-- %1$s is an app name, such as "YouTube" -->
-    <string name="signin_confirm_title">Επιτρέψτε τη σύνδεση σε %1$s</string>
+    <string name="signin_confirm_title">Να επιτρέπεται η σύνδεσή σας στο %1$s</string>
     <!-- %1$s is an app name, such as "YouTube" -->
     <string name="signin_subtext_sharing">Για να συνεχίσετε, το microG θα μοιραστεί το όνομα, τη διεύθυνση email και την εικόνα προφίλ του λογαριασμού σας Google με το %1$s</string>
     <!--auth: buttons-->
@@ -45,9 +45,9 @@
     <string name="auth_notification_content">%1$s χρειάζεται την έγκρισή σας για να αποκτήσει πρόσβαση στον λογαριασμό Google σας</string>
     <!--Account Manager-->
     <string name="dialog_title_remove_account">Αφαίρεση λογαριασμού</string>
-    <string name="dialog_message_remove_account">"Σίγουρα θέλετε να αφαιρέσετε αυτό το λογαριασμό;
+    <string name="dialog_message_remove_account">"Είστε βέβαιοι ότι θέλετε να αφαιρέσετε αυτόν τον λογαριασμό;
 
-Κάποιες υπηρεσίες και λειτουργίες θα είναι μη διαθέσιμες
+Ορισμένες υπηρεσίες και λειτουργίες δεν θα είναι διαθέσιμες
 
 Τα δεδομένα σας δε θα χαθούν"</string>
     <string name="dialog_confirm_button">Αφαίρεση</string>
@@ -82,7 +82,7 @@
     <!-- %1$s is a date time, such as  app name, such as "Yesterday, 02:20 PM" -->
     <string name="gcm_messages_counter">Μηνύματα: %1$d (%2$d bytes)</string>
     <!--gcm: network states-->
-    <string name="gcm_network_state_disconnected">Αποσυνδέθηκε</string>
+    <string name="gcm_network_state_disconnected">Αποσυνδεδεμένο</string>
     <!-- %1$s is a date time, such as  app name, such as "Yesterday, 02:20 PM" -->
     <string name="gcm_network_state_connected">Συνδεδεμένο από %1$s</string>
     <!--gcm: network types entry's-->
@@ -92,8 +92,8 @@
     <string name="network_type_other">Άλλα δίκτυα</string>
     <!--gcm: push notifications ping entry's-->
     <string name="push_notifications_summary_off">ΑΝΕΝΕΡΓΟ</string>
-    <string name="push_notifications_summary_automatic">ΕΝΕΡΓΟ / Αυτόματη: %s</string>
-    <string name="push_notifications_summary_manual">ΕΝΕΡΓΟ / Χειροκίνητη: %s</string>
+    <string name="push_notifications_summary_automatic">ΕΝΕΡΓΟ / Αυτόματα: %s</string>
+    <string name="push_notifications_summary_manual">ΕΝΕΡΓΟ / Χειροκίνητα: %s</string>
     <string name="push_notifications_summary_values_seconds">%s δευτερόλεπτα</string>
     <string name="push_notifications_summary_values_minutes">%s λεπτά</string>
     <!--gcm: ask push permission dialog-->

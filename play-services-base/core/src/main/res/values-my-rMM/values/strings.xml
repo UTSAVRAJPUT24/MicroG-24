@@ -8,7 +8,9 @@
     <!-- %1$s is a notification text such as "Exposure Notification" -->
     <!-- %1$s is a notification text such as "mnicroG Services" -->
     <!--foreground service: notification actions-->
+    <string name="foreground_action_notification_settings">မ်ားလာေၞး</string>
     <!--Actionbar menu-->
+    <string name="menu_settings">မ်ားလာေၞး</string>
     <!--Google Cloud Messaging-->
     <!--gcm: network status-->
     <!--Patchers names-->

@@ -19,7 +19,7 @@
     <string name="list_no_item_none">Nič</string>
     <string name="list_item_see_all">Prikaži vse</string>
     <!--gcm: network status-->
-    <string name="service_status_disabled">Onemogleno</string>
+    <string name="service_status_disabled">Onemogočeno</string>
     <string name="service_status_enabled">Omogočeno</string>
     <string name="service_status_automatic">Samodejno</string>
     <string name="service_status_manual">Ročno</string>

@@ -5,11 +5,25 @@
   -->
 <resources>
     <!--Foreground service notification-->
+    <string name="foreground_service_notification_title">Virkar í bakgrunni</string>
     <!-- %1$s is a notification text such as "Exposure Notification" -->
+    <string name="foreground_service_notification_text" formatted="true">%1$s er í gangi í bakgrunni</string>
     <!-- %1$s is a notification text such as "mnicroG Services" -->
+    <string name="foreground_service_notification_big_text">Ekki taka %1$s með í rafmagnsnýtni eða breyta stillingum til að fela þennan tilkynning</string>
     <!--foreground service: notification actions-->
+    <string name="foreground_action_battery_optimization">Rafmagnsnýtni</string>
+    <string name="foreground_action_notification_settings">Stillingar</string>
     <!--Actionbar menu-->
+    <string name="menu_settings">Stillingar</string>
     <!--Google Cloud Messaging-->
+    <string name="list_no_item_none">Engin</string>
+    <string name="list_item_see_all">Sjá allt</string>
     <!--gcm: network status-->
+    <string name="service_status_disabled">Óvirkur</string>
+    <string name="service_status_enabled">Virkur</string>
+    <string name="service_status_automatic">Sjálfvirkt</string>
+    <string name="service_status_manual">Handvirkt</string>
+    <string name="service_status_enabled_short">Á</string>
+    <string name="service_status_disabled_short">Af</string>
     <!--Patchers names-->
 </resources>

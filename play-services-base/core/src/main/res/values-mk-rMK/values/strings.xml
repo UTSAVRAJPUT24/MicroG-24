@@ -5,11 +5,25 @@
   -->
 <resources>
     <!--Foreground service notification-->
+    <string name="foreground_service_notification_title">Активно во позадина</string>
     <!-- %1$s is a notification text such as "Exposure Notification" -->
+    <string name="foreground_service_notification_text" formatted="true">%1$s работи во позадина</string>
     <!-- %1$s is a notification text such as "mnicroG Services" -->
+    <string name="foreground_service_notification_big_text">Исклучете %1$s од оптимизација на батеријата или променете ги поставките за известувања за да го скриете ова известување</string>
     <!--foreground service: notification actions-->
+    <string name="foreground_action_battery_optimization">Оптимизација на батерија</string>
+    <string name="foreground_action_notification_settings">Поставки</string>
     <!--Actionbar menu-->
+    <string name="menu_settings">Поставки</string>
     <!--Google Cloud Messaging-->
+    <string name="list_no_item_none">Ниту едно</string>
+    <string name="list_item_see_all">Види ги сите</string>
     <!--gcm: network status-->
+    <string name="service_status_disabled">Оневозможено</string>
+    <string name="service_status_enabled">Овозможено</string>
+    <string name="service_status_automatic">Автоматски</string>
+    <string name="service_status_manual">Рачно</string>
+    <string name="service_status_enabled_short">Вклучено</string>
+    <string name="service_status_disabled_short">Исклучено</string>
     <!--Patchers names-->
 </resources>

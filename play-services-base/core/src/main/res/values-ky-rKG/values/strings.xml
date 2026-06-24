@@ -5,11 +5,25 @@
   -->
 <resources>
     <!--Foreground service notification-->
+    <string name="foreground_service_notification_title">Арткы жакта иштеп жатат</string>
     <!-- %1$s is a notification text such as "Exposure Notification" -->
+    <string name="foreground_service_notification_text" formatted="true">%1$s Арткы жакта иштеп жатат</string>
     <!-- %1$s is a notification text such as "mnicroG Services" -->
+    <string name="foreground_service_notification_big_text">Бул билдирүүнү жашыруу үчүн %1$s тиркемесин батареяны колдонуу чектөсүнөн чыгарыңыз же билдирүү жөндөөлөрүн өзгөртүңүз</string>
     <!--foreground service: notification actions-->
+    <string name="foreground_action_battery_optimization">Батареяны колдонуу чектөөлөрү</string>
+    <string name="foreground_action_notification_settings">Оңдоолор </string>
     <!--Actionbar menu-->
+    <string name="menu_settings">Оңдоолор </string>
     <!--Google Cloud Messaging-->
+    <string name="list_no_item_none">Эч бири</string>
+    <string name="list_item_see_all">Баарын көрүү</string>
     <!--gcm: network status-->
+    <string name="service_status_disabled">Иштен чыгарылган</string>
+    <string name="service_status_enabled">Ишке киргизилген</string>
+    <string name="service_status_automatic">Өзүнөн өзү</string>
+    <string name="service_status_manual">Кол менен </string>
+    <string name="service_status_enabled_short">Күйүк</string>
+    <string name="service_status_disabled_short">Өчүк</string>
     <!--Patchers names-->
 </resources>

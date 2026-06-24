@@ -16,11 +16,28 @@
   -->
 <resources>
     <!--Updater-->
+    <string name="update_checker_button">Athuga uppfærslur</string>
+    <string name="update_checker_download_button">Sæja niður</string>
     <!--updater: messages-->
+    <string name="update_checker_no_update">Engin uppfærsla í boði</string>
+    <string name="update_checker_update_available">Ný uppfærsla í boði: %s</string>
+    <string name="update_checker_no_internet">Engin nettenging</string>
+    <string name="update_checker_generic_error">Eitthvað fór rangt… Vinsamlegast reyndu aftur síðar</string>
     <!--Settings About-->
+    <string name="about_morphe_description">Morphe er forritið með opnum hugbúnaði sem er hannað til að breyta Android forritum með patching</string>
+    <string name="about_version_str">Útgáfa %1$s</string>
+    <string name="about_default_license">Allur réttur áskilinn</string>
     <!--Self Check-->
     <!--self-check: permission-->
+    <string name="self_check_cat_permissions">Leyfi</string>
+    <string name="self_check_name_permission">Leyfi til %1$s:</string>
+    <string name="self_check_resolution_permission">Snertu hér til að veita leyfi. Ef þú veitir ekki leyfið geta forrit ekki virkað rétt</string>
     <!--Settings Preferences-->
     <!--preferences: self-check-->
+    <string name="self_check_title">Sjálfskanni</string>
+    <string name="self_check_desc">Staðfestu að búðin sé rétt stillt til að nota microG</string>
     <!--UI preview-->
+    <string name="about_root_title">microG UI Demo</string>
+    <string name="about_root_version">Útgáfa v0.1.0</string>
+    <string name="about_root_libraries">Innifalin safn</string>
 </resources>
