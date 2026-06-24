@@ -1,4 +1,4 @@
-# microG-24
+# MicroG-24
 
 > A custom fork of [MicroG-RE by MorpheApp](https://github.com/MorpheApp/MicroG-RE) — lightweight, clean, and built for everyone.
 
