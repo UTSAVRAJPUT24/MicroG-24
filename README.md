@@ -1,58 +1,86 @@
-<div align="center"> 
-<picture>
-    <source
-      width="512px"
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MorpheApp/.github/refs/heads/main/profile/assets/morphe-wordmark/morphe_wordmark_dark.svg"
-    />
-    <img 
-      width="512px"
-      src="https://raw.githubusercontent.com/MorpheApp/.github/refs/heads/main/profile/assets/morphe-wordmark/morphe_wordmark_light.svg"
-    />
-</picture>
+# microG-24
 
-[![Website badge](https://img.shields.io/badge/Website-gray.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ29weXJpZ2h0IDIwMjUgTW9ycGhlLiBUaGlzIGlzIGNvcHlyaWdodGVkIGNvbnRlbnQsIGFuZCBub3QgbGljZW5zZWQgdW5kZXIgb3BlbiBzb3VyY2UgdGVybXMuCiAgICAgU2VlIGh0dHBzOi8vZ2l0aHViLmNvbS9Nb3JwaGVBcHAvbW9ycGhlLWJyYW5kaW5nIC0tPgoKPHN2ZwogICB3aWR0aD0iNTEyIgogICBoZWlnaHQ9IjUxMiIKICAgdmlld0JveD0iMCAwIDUxMiA1MTIiCiAgIHZlcnNpb249IjEuMSIKICAgaWQ9InN2ZzIiCiAgIHNvZGlwb2RpOmRvY25hbWU9Im1vcnBoZV9sb2dvX2xpZ2h0LnN2ZyIKICAgaW5rc2NhcGU6dmVyc2lvbj0iMS40LjIgKGViZjBlOTQwZDAsIDIwMjUtMDUtMDgpIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxzb2RpcG9kaTpuYW1lZHZpZXcKICAgICBpZD0ibmFtZWR2aWV3MiIKICAgICBwYWdlY29sb3I9IiNmZmZmZmYiCiAgICAgYm9yZGVyY29sb3I9IiMwMDAwMDAiCiAgICAgYm9yZGVyb3BhY2l0eT0iMC4yNSIKICAgICBpbmtzY2FwZTpzaG93cGFnZXNoYWRvdz0iMiIKICAgICBpbmtzY2FwZTpwYWdlb3BhY2l0eT0iMC4wIgogICAgIGlua3NjYXBlOnBhZ2VjaGVja2VyYm9hcmQ9IjAiCiAgICAgaW5rc2NhcGU6ZGVza2NvbG9yPSIjZDFkMWQxIgogICAgIGlua3NjYXBlOnpvb209IjEuMTU0Mjk2OSIKICAgICBpbmtzY2FwZTpjeD0iMjU2IgogICAgIGlua3NjYXBlOmN5PSIyNTYiCiAgICAgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIxNDQwIgogICAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9IjgzNiIKICAgICBpbmtzY2FwZTp3aW5kb3cteD0iMCIKICAgICBpbmtzY2FwZTp3aW5kb3cteT0iMCIKICAgICBpbmtzY2FwZTp3aW5kb3ctbWF4aW1pemVkPSIxIgogICAgIGlua3NjYXBlOmN1cnJlbnQtbGF5ZXI9InN2ZzIiPgogICAgPGlua3NjYXBlOnBhZ2UKICAgICAgIHg9IjAiCiAgICAgICB5PSIwIgogICAgICAgd2lkdGg9IjUxMiIKICAgICAgIGhlaWdodD0iNTEyIgogICAgICAgaWQ9InBhZ2UyIgogICAgICAgbWFyZ2luPSIwIgogICAgICAgYmxlZWQ9IjAiIC8+CiAgPC9zb2RpcG9kaTpuYW1lZHZpZXc+CiAgPGRlZnMKICAgICBpZD0iZGVmczIiIC8+CiAgPCEtLSBMZXR0ZXIgLS0+CiAgPGcKICAgICBpZD0iTGV0dGVyIgogICAgIHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjEiPgogICAgPHBhdGgKICAgICAgIGlkPSJMZWZ0IgogICAgICAgZD0ibSAxMjMsMTQwIGMgLTIxLDAgLTM5LDE3IC00MCwzOCB2IDE5MiBjIDEsMjEgMTksMzggNDAsMzggMjEsMCAzOSwtMTcgNDAsLTM4IFYgMTc4IGMgLTEsLTIxIC0xOSwtMzggLTQwLC0zOCB6IgogICAgICAgZmlsbD0iIzFFNUFBOCIKICAgICAgIHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjEiIC8+CiAgICA8cGF0aAogICAgICAgaWQ9IlJpZ2h0IgogICAgICAgZD0ibSAzNDksMjg1IHYgODUgYyAxLDIxIDE5LDM4IDQwLDM4IDIxLDAgMzksLTE3IDQwLC0zOCBWIDE4MiBjIC0xMSwtMTQgLTc0LDYzIC04MCwxMDMgeiIKICAgICAgIGZpbGw9IiMwMEFGQUUiCiAgICAgICBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtb3BhY2l0eToxIiAvPgogICAgPHBhdGgKICAgICAgIGlkPSJNaWRkbGUiCiAgICAgICBkPSJtIDEyNywxMDggYyAtMzQsMCAtNDQsMjUgLTQ0LDQwIHYgNTQgYyAzMCwtMzMgNzUsMjcgODAsMzMgMjgsMzIgNDQsODcgOTMsODkgNDgsLTIgNjcsLTU2IDkzLC04OSAwLDAgNDUsLTc0IDgwLC04MCAwLC0yOCAtMTEsLTQ3IC00NCwtNDcgLTM0LDAgLTU4LDUwIC03NSw3MiAtMTcsMjIgLTI1LDQ2IC01NCw0NiAtMjksMCAtMzgsLTI1IC01NCwtNDYgLTE3LC0yMiAtNDEsLTcyIC03NSwtNzIgeiIKICAgICAgIGZpbGw9InVybCgjbGluZWFyR3JhZGllbnQyKSIKICAgICAgIHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjEiIC8+CiAgPC9nPgo8L3N2Zz4K&style=for-the-badge)](https://morphe.software) [![Subreddit badge](https://img.shields.io/badge/Reddit-gray?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/MorpheApp) [![X badge](https://img.shields.io/badge/X_-gray?style=for-the-badge&logo=x)](https://x.com/MorpheApp) [![Crowdin badge](https://img.shields.io/badge/Translations-gray?style=for-the-badge&logo=crowdin)](https://morphe.software/translate)
-<br>
-</div> 
+> A custom fork of [MicroG-RE by MorpheApp](https://github.com/MorpheApp/MicroG-RE) — lightweight, clean, and built for everyone.
 
-&nbsp;
-<p align="center">
-  <a href="https://morphe.software" title="Download Morphe">
-    <img src="https://raw.githubusercontent.com/MorpheApp/.github/refs/heads/main/profile/assets/download-morphe.svg" alt="Download Morphe" width="240"/>
-  </a>
-</p>
-&nbsp;
+---
 
-# ⚙️ MicroG RE (GmsCore Redesign)
+## What is microG-24?
 
-[GmsCore](https://github.com/microg/GmsCore) fork for Morphe patched apps with [Material 3 Expressive](https://m3.material.io/blog/building-with-m3-expressive) design, enhanced features, and improvements.
+microG-24 is a free and open-source replacement for Google Play Services. It lets you use Google account login and services in patched apps like YouTube Morphe — without root, without bloat, and without Google spying on you.
 
-This repository is a fork of [microG GmsCore](https://github.com/microg/GmsCore), adapted to work with patched Google apps without requiring root access and under an alternative package name. It uses the **GmsCore support** patch from Morphe Patches to enable Google account authentication and services, replacing Google Play Services.
+No launcher icon. No unnecessary permissions. Just works in the background silently. 🔇
 
-## 🤝 Credits
+---
 
-- [microG Project](https://github.com/microg) for GmsCore, alternative of Play Services. [wiki](https://github.com/microg/GmsCore/wiki)
+## ✨ Features
 
-- [Shadow578](https://github.com/shadow578) and [ReVanced Team](https://github.com/ReVanced) for the implementation of ReVanced GmsCore group ID vendor.
+- 🔇 **Hidden from launcher** — No icon in app drawer, runs silently in background
+- 🎨 **Custom UI** — Fresh new look with updated icons and about section
+- 🛡️ **No false positives** — Fixed antivirus flags on Realme, OPPO, and OnePlus devices
+- 🔄 **Auto-updated** — Syncs automatically with upstream MicroG-RE every day
+- 📱 **No root required** — Works on any Android device
+- ⚡ **Lightweight** — No bloat, no ads, no tracking
+- 🔐 **Google account support** — Login works perfectly in patched apps
+- 📲 **Wide device support** — Works on Xiaomi, Realme, OPPO, OnePlus, Samsung and more
 
-- [AyushTNM](https://github.com/ayushTNM) for some useful implementations and ideas.
+---
 
-- All legacy Vanced Team for the inspiration of some of the features.
+## 📦 Download
 
-[See all contributors](https://github.com/MorpheApp/MicroG-RE/graphs/contributors)
+Get the latest APK from the [Releases](../../releases/latest) section.
 
-## 📜 License
+---
 
-    Copyright 2013-2025 microG Project Team
+## 🚀 How to Install
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+1. Download the latest APK from Releases
+2. Enable **"Install from unknown sources"** in your phone settings
+3. Install the APK
+4. Open your patched app (e.g. YouTube Morphe)
+5. Sign in with your Google account
+6. Done! ✅
 
-        http://www.apache.org/licenses/LICENSE-2.0
+---
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+## 📱 Compatibility
+
+| Device Brand | Status |
+|---|---|
+| Samsung | ✅ Works |
+| Xiaomi / MIUI | ✅ Works |
+| Realme | ✅ Fixed |
+| OPPO / ColorOS | ✅ Fixed |
+| OnePlus | ✅ Fixed |
+| Stock Android | ✅ Works |
+
+---
+
+## 🔄 Auto Sync
+
+microG-24 automatically syncs with upstream [MicroG-RE](https://github.com/MorpheApp/MicroG-RE) every day. So you always get the latest fixes and features without any manual work.
+
+---
+
+## ⚠️ Important Notes
+
+- This app is meant to be used with **Morphe patched apps**
+- Do **NOT** install alongside ReVanced microG — conflicts ho sakte hain
+- If antivirus flags this — it is a **false positive**, this app is 100% open source
+
+---
+
+## 🙏 Credits
+
+- [microG Project](https://github.com/microg/GmsCore) — Original GmsCore
+- [MorpheApp](https://github.com/MorpheApp/MicroG-RE) — MicroG-RE fork
+- [Morphe Team](https://github.com/MorpheApp) — Inspiration and patches
+
+---
+
+## 📄 License
+
+Licensed under the [Apache License 2.0](LICENSE)
+
+---
+
+> Made with ❤️ for the Android community
