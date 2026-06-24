@@ -7,8 +7,8 @@
 
     <!--App Names-->
 
-    <string name="gms_app_name" translatable="false">MicroG RE</string>
-    <string name="gms_settings_name">microG Settings</string>
+    <string name="gms_app_name" translatable="false">MicroG 24</string>
+    <string name="gms_settings_name">microG 24 Settings</string>
 
     <!--Authentication-->
 
@@ -232,7 +232,7 @@ Not yet supported"</string>
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Hide icon in launcher</string>
     <!--preferences: about-->
-    <string name="pref_about_title">About MicroG RE</string>
+    <string name="pref_about_title">About MicroG 24</string>
     <string name="pref_github" translatable="false">GitHub</string>
     <string name="pref_github_summary">Source code repository</string>
 
