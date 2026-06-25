@@ -1,12 +1,12 @@
-# microG-24
+# MicroG-24
 
 > A lightweight, clean, and custom Google Play Services replacement — built for everyone by Utsav.
 
 ---
 
-## What is microG-24?
+## What is MicroG-24?
 
-microG-24 is a free and open-source replacement for Google Play Services. It lets you use Google account login and cloud services in patched apps — without root, without bloat, and without Google spying on you.
+MicroG-24 is a free and open-source replacement for Google Play Services. It lets you use Google account login and cloud services in patched apps — without root, without bloat, and without Google spying on you.
 
 No launcher icon. No unnecessary permissions. Just works in the background silently. 🔇
 
