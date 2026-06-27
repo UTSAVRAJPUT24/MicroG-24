@@ -142,13 +142,13 @@ Do you want to unregister it now so it does not receive push messages in the fut
     <string name="self_check_cat_gms_packages">Installed packages</string>
     <string name="self_check_cat_fake_sig">Signature spoofing support</string>
     <!--self check: patched apps-->
-    <string name="self_check_source_morphe">Morphe patches</string>
+    <string name="self_check_source_morphe">Utsav patches</string>
     <string name="self_check_source_alternative">alternative patches</string>
     <!-- %1$s is an app name, such as "Morphe" -->
     <string name="self_check_patched_app_installed">Running with %1$s</string>
     <!-- %1$s is an app name, such as "YouTube" -->
     <string name="self_check_resolution_patched_app_installed">Apps using %1$s not found. Please patch and install the modified app</string>
-    <string name="self_check_action_download_morphe">Download Morphe</string>
+    <string name="self_check_action_download_morphe">Download microG 24</string>
     <!--self check: permission-->
     <string name="self_check_name_notifications">Notifications allowed</string>
     <string name="self_check_resolution_notifications">Tap here to open notification settings. Notifications are used to keep GcmService running in the background when battery optimization is enabled or under other conditions</string>
@@ -234,7 +234,7 @@ Not yet supported"</string>
     <!--preferences: about-->
     <string name="pref_about_title">About MicroG 24</string>
     <string name="pref_github" translatable="false">GitHub</string>
-    <string name="pref_github_summary">Source code repository</string>
+    <string name="pref_github_summary">View source code on GitHub</string>
 
     <!--Permissions-->
 

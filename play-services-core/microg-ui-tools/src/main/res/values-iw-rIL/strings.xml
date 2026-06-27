@@ -24,7 +24,7 @@
     <string name="update_checker_no_internet">אין חיבור לאינטרנט</string>
     <string name="update_checker_generic_error">משהו השתבש… נסה שוב מאוחר יותר</string>
     <!--Settings About-->
-    <string name="about_morphe_description">Morphe is an open-source project designed to modify Android apps through patches</string>
+    <string name="about_morphe_description">A custom open-source Google Play Services replacement. Built for ReTube and other patched apps.</string>
     <string name="about_version_str">גרסה %1$s</string>
     <string name="about_default_license">כל הזכויות שמורות</string>
     <!--Self Check-->
