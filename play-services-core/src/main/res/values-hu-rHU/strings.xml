@@ -217,7 +217,7 @@ Még nem támogatott"</string>
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Ikon elrejtése az indítóban</string>
     <!--preferences: about-->
-    <string name="pref_about_title">A MicroG RE-ről</string>
+    <string name="pref_about_title">A Microg 24-ről</string>
     <string name="pref_github_summary">Forráskód tárolóhely</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">hallgatás a belső állapotjelentésekre</string>

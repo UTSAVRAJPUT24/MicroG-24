@@ -214,7 +214,7 @@ Todavía no es compatible"</string>
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Ocultar icono en el lanzador</string>
     <!--preferences: about-->
-    <string name="pref_about_title">Acerca de MicroG RE</string>
+    <string name="pref_about_title">Acerca de Microg 24</string>
     <string name="pref_github_summary">Repositorio de código fuente</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">Optimizaciones de batería activadas</string>

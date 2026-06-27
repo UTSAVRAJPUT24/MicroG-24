@@ -212,7 +212,7 @@
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Сховати іконку в лаунчері</string>
     <!--preferences: about-->
-    <string name="pref_about_title">Относно MicroG RE</string>
+    <string name="pref_about_title">Относно Microg 24</string>
     <string name="pref_github_summary">Репозиторій коду</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">Слухати внутрішні повідомлення про стан</string>

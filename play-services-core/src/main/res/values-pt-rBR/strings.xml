@@ -182,7 +182,7 @@ Continuar?"</string>
     <string name="pref_device_registration_import_custom_profile_summary">Importar perfil do dispositivo de um arquivo</string>
     <string name="pref_device_registration_serial_title">Número de série</string>
     <string name="pref_device_registration_android_id">Android ID</string>
-    <string name="pref_checkin_enable_summary">Registre seu dispositivo nos serviços do Google e crie um identificador exclusivo. O microG remove bits de identificação que não sejam o nome da conta Google dos dados de registro</string>
+    <string name="pref_checkin_enable_summary">Registre seu dispositivo nos serviços do Google e crie um identificador exclusivo. O microg 24move bits de identificação que não sejam o nome da conta Google dos dados de registro</string>
     <!--preferences: cloud messaging-->
     <string name="prefcat_push_apps_title">Aplicativos usando notificações push</string>
     <string name="pref_push_app_allow_register_title">Permitir registro</string>
@@ -213,7 +213,7 @@ Não suportado ainda"</string>
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Ocultar ícone do launcher</string>
     <!--preferences: about-->
-    <string name="pref_about_title">Sobre o MicroG RE</string>
+    <string name="pref_about_title">Sobre o Microg 24</string>
     <string name="pref_github_summary">Repositório com o código-fonte</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">ouvir status de broadcast interno</string>

@@ -214,7 +214,7 @@ Google 계정에 연결하려면 <b>로그인</b> 버튼을 사용하거나, 해
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">런처에서 앱 아이콘 숨기기</string>
     <!--preferences: about-->
-    <string name="pref_about_title">MicroG RE에 대한 정보</string>
+    <string name="pref_about_title">Microg 24에 대한 정보</string>
     <string name="pref_github_summary">소스 코드 리포지토리</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">내부 상태 브로드캐스트 수신</string>

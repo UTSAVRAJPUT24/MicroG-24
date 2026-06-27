@@ -214,7 +214,7 @@ Stöds inte än"</string>
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Dölj ikonen i startprogrammet</string>
     <!--preferences: about-->
-    <string name="pref_about_title">Om MicroG RE</string>
+    <string name="pref_about_title">Om Microg 24</string>
     <string name="pref_github_summary">Lagringsplats för källkoden</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">lyssna på interna statussändningar</string>

@@ -214,7 +214,7 @@
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Απόκρυψη εικονιδίου στο launcher</string>
     <!--preferences: about-->
-    <string name="pref_about_title">Σχετικά με το MicroG RE</string>
+    <string name="pref_about_title">Σχετικά με το Microg 24</string>
     <string name="pref_github_summary">Αποθετήριο πηγαίου κώδικα</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">ακρόαση εσωτερικών μεταδόσεων κατάστασης</string>

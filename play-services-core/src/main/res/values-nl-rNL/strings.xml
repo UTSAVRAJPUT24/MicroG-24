@@ -202,7 +202,7 @@ Meldingen worden gebruikt om GcmService op de achtergrond te laten draaien wanne
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Verberg icoon in launcher</string>
     <!--preferences: about-->
-    <string name="pref_about_title">Over MicroG RE</string>
+    <string name="pref_about_title">Over Microg 24</string>
     <string name="pref_github_summary">Broncode-opslagplaats</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">Lees Google-serviceconfiguratie</string>

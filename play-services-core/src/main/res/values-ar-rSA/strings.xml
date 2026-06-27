@@ -214,7 +214,7 @@
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">إخفاء الأيقونة من الصفحة الرئيسية</string>
     <!--preferences: about-->
-    <string name="pref_about_title">حول MicroG RE</string>
+    <string name="pref_about_title">حول Microg 24</string>
     <string name="pref_github_summary">مستودع الشفرة المصدرية</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">الاستماع إلى البث الداخلي للحالة</string>

@@ -213,7 +213,7 @@ Nu este încă suportat"</string>
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Ascunde icona în lanțator</string>
     <!--preferences: about-->
-    <string name="pref_about_title">Despre MicroG RE</string>
+    <string name="pref_about_title">Despre Microg 24</string>
     <string name="pref_github_summary">Repozitorul codului sursă</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">Ascultați statusuri interne</string>

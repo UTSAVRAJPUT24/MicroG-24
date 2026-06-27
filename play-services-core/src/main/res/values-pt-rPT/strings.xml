@@ -181,7 +181,7 @@ Deseja desregistrá-lo agora para que ele não receba mais notificações por pu
     <string name="pref_device_registration_import_custom_profile_summary">Importar perfil de dispositivo a partir de um arquivo</string>
     <string name="pref_device_registration_serial_title">Serial</string>
     <string name="pref_device_registration_android_id">ID do Android</string>
-    <string name="pref_checkin_enable_summary">Registra seu dispositivo nos serviços Google e cria um identificador de dispositivo único. O microG remove os bits de identificação, exceto o nome da sua conta Google, dos dados de registro</string>
+    <string name="pref_checkin_enable_summary">Registra seu dispositivo nos serviços Google e cria um identificador de dispositivo único. O microg 24move os bits de identificação, exceto o nome da sua conta Google, dos dados de registro</string>
     <!--preferences: cloud messaging-->
     <string name="prefcat_push_apps_title">Aplicativos usando notificações push</string>
     <string name="pref_push_app_allow_register_title">Permitir registro</string>
@@ -212,7 +212,7 @@ Não suportado ainda"</string>
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Ocultar ícone na área de trabalho</string>
     <!--preferences: about-->
-    <string name="pref_about_title">Sobre o MicroG RE</string>
+    <string name="pref_about_title">Sobre o Microg 24</string>
     <string name="pref_github_summary">Repositório do código-fonte</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">ouvir a transmissão de status interna</string>

@@ -215,7 +215,7 @@ Pas encore pris en charge"</string>
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Masquer l\'icône dans le lanceur</string>
     <!--preferences: about-->
-    <string name="pref_about_title">À propos de MicroG RE</string>
+    <string name="pref_about_title">À propos de Microg 24</string>
     <string name="pref_github_summary">Dépôt du code source</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">écouter les diffusions de statut internes</string>

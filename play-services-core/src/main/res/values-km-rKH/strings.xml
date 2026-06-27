@@ -137,7 +137,7 @@
     <string name="pref_auth_visible_title">អនុញ្ញាតឱ្យកម្មវិធីស្វែងរកគណនី</string>
     <!--preferences: hide icon in launcher-->
     <!--preferences: about-->
-    <string name="pref_about_title">អំពី MicroG RE</string>
+    <string name="pref_about_title">អំពី Microg 24</string>
     <!--Permissions-->
     <string name="perm_c2dm_receive_label">ស្ដាប់សារ C2DM</string>
     <string name="perm_c2dm_send_label">ផ្ញើសារ C2DM ទៅកម្មវិធីដទៃ</string>

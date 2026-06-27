@@ -212,7 +212,7 @@ Non ancora supportato"</string>
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Nascondi l\'icona nel launcher</string>
     <!--preferences: about-->
-    <string name="pref_about_title">Informazioni su MicroG RE</string>
+    <string name="pref_about_title">Informazioni su Microg 24</string>
     <string name="pref_github_summary">Repository del codice sorgente</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">Ascolta i broadcast interni dello stato</string>

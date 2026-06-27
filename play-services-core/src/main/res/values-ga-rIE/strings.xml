@@ -214,7 +214,7 @@ Ní thacaítear leis go fóill."</string>
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Folaigh deilbhín sa lainseálaí</string>
     <!--preferences: about-->
-    <string name="pref_about_title">Maidir le MicroG RE</string>
+    <string name="pref_about_title">Maidir le Microg 24</string>
     <string name="pref_github_summary">Stór cód foinse</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">éist le craoltaí stádais inmheánacha</string>

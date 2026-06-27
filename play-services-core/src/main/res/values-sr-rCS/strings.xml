@@ -215,7 +215,7 @@ Još nije podržan"</string>
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Sakrij ikonu u lanseru</string>
     <!--preferences: about-->
-    <string name="pref_about_title">O microG RE</string>
+    <string name="pref_about_title">O microg 24</string>
     <string name="pref_github_summary">Repozitorijum izvora koda</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">Poslušajte unutrašajne status obaveštenja</string>

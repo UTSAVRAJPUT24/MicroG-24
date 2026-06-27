@@ -211,7 +211,7 @@ Maaaring hindi na muling makapagrehistro ang ilang aplikasyon pagkatapos ng pagk
     <!--preferences: hide icon in launcher-->
     <string name="pref_hide_launcher_icon">Itago ang icon sa launcher</string>
     <!--preferences: about-->
-    <string name="pref_about_title">Tungkol sa MicroG RE</string>
+    <string name="pref_about_title">Tungkol sa Microg 24</string>
     <string name="pref_github_summary">Repository ng source code</string>
     <!--Permissions-->
     <string name="perm_status_broadcast_label">makinig sa mga panloob na pagsasahimpapawid ng katayuan</string>
