@@ -37,8 +37,8 @@ public class UpdateChecker {
 
     private static final String TAG = "UpdateChecker";
 
-    private static final String GITHUB_API_URL = "https://api.github.com/repos/MorpheApp/MicroG-RE/releases/latest";
-    private static final String GITHUB_RELEASE_LINK = "https://github.com/MorpheApp/MicroG-RE/releases/latest";
+   private static final String GITHUB_API_URL = "https://api.github.com/repos/Utsavrajputt/MicroG-24/releases/latest";
+   private static final String GITHUB_RELEASE_LINK = "https://github.com/Utsavrajputt/MicroG-24/releases/latest";
 
     private static final OkHttpClient CLIENT = new OkHttpClient.Builder().retryOnConnectionFailure(true).build();
 
