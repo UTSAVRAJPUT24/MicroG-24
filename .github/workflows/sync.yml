@@ -15,6 +15,6 @@ jobs:
         uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
         with:
           upstream_sync_repo: MorpheApp/MicroG-RE
-          upstream_sync_branch: master
-          target_sync_branch: master
+          upstream_sync_branch: main
+          target_sync_branch: custom-changes
           target_repo_token: ${{ secrets.GITHUB_TOKEN }}
